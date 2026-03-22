@@ -1,0 +1,7 @@
+{
+  "name": "iNTEGRA - Registro de Documentos",
+  "description": "A sophisticated document registration and integration portal with OCR capabilities, contact management, and health record synchronization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
